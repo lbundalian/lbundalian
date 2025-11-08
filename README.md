@@ -21,12 +21,6 @@
   </a>
 </p>
 
-<!-- ====== LANGUAGES & TOOLS ====== -->
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,bootstrap,cpp,cs,css,django,docker,dotnet,figma,gcp,git,go,html,java,js,jenkins,linux,mariadb,matlab,mongodb,mysql,nginx,nodejs,oracle,pandas,photoshop,postgres,postman,python,pytorch,react,rust,sklearn,spring,sqlite,tailwind,tensorflow&perline=10" />
-</p>
-
 <!-- ====== GITHUB STATS ====== -->
 <div align="center">
 
@@ -45,3 +39,11 @@
   </table>
 
 </div>
+
+<!-- ====== LANGUAGES & TOOLS ====== -->
+<h3 align="center">Languages & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,bootstrap,cpp,cs,css,django,docker,dotnet,figma,gcp,git,go,html,java,js,jenkins,linux,mariadb,matlab,mongodb,mysql,nginx,nodejs,oracle,pandas,photoshop,postgres,postman,python,pytorch,react,rust,sklearn,spring,sqlite,tailwind,tensorflow&perline=10" />
+</p>
+
+
