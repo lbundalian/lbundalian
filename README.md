@@ -52,7 +52,8 @@
 <!-- ====== LANGUAGES & TOOLS ====== -->
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,aws,bash,bootstrap,cpp,cs,css,django,docker,dotnet,figma,gcp,git,go,html,java,js,jenkins,linux,mariadb,matlab,mongodb,mysql,nginx,nodejs,oracle,pandas,photoshop,postgres,postman,python,pytorch,react,rust,sklearn,spring,sqlite,tailwind,tensorflow&perline=15" />
+  <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,pandas,numpy,sklearn,tensorflow,pytorch,matlab,postgres,mysql,mongodb,sqlite,go,rust,java,cpp,cs,django,nodejs,spring,dotnet,docker,nginx,aws,gcp,jenkins,react,tailwind,bootstrap,html,css,js,postman,figma,photoshop,arduino,mariadb,oracle&perline=15" />
 </p>
+
 
 
