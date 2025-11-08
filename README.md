@@ -34,7 +34,7 @@
 
 <h3 align="center">Highlights</h3>
 
-<p align="center">
+<p align="lefft">
   🧬 <b><a href="https://tools.hornlab.org/symetrics/" target="_blank">Symetrics</a></b> — web tool for evaluating single nucleotide synonymous variants.<br>
   🧠 <b><a href="https://github.com/lbundalian/ergo" target="_blank">ERGO</a></b> — concurrent data orchestration pipeline in Golang.<br>
   🧫 <b><a href="https://github.com/lbundalian/metamorph" target="_blank">Metamorph</a></b> — medicaldata transformation and harmonization.<br>
