@@ -32,9 +32,9 @@
   </a>
 </p>
 
-<h3 align="center">Highlights</h3>
+<h3 align="left">Highlights</h3>
 
-<p align="lefft">
+<p align="left">
   🧬 <b><a href="https://tools.hornlab.org/symetrics/" target="_blank">Symetrics</a></b> — web tool for evaluating single nucleotide synonymous variants.<br>
   🧠 <b><a href="https://github.com/lbundalian/ergo" target="_blank">ERGO</a></b> — concurrent data orchestration pipeline in Golang.<br>
   🧫 <b><a href="https://github.com/lbundalian/metamorph" target="_blank">Metamorph</a></b> — medicaldata transformation and harmonization.<br>
@@ -58,7 +58,7 @@
 </div>
 
 <!-- ====== LANGUAGES & TOOLS ====== -->
-<h3 align="center">Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,linux,bash,git,sklearn,nextflow,docker,tensorflow,pytorch,aws,gcp,jenkins,matlab,postgres,mysql,mongodb,sqlite,go,rust,java,cpp,cs,django,nodejs,spring,dotnet,nginx,react,tailwind,bootstrap,html,css,js,postman,figma,photoshop,arduino,mariadb,oracle&perline=15" />
 </p>
